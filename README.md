@@ -42,7 +42,8 @@ In this project, you will create a comprehensive company finance dashboard using
 
 You have to create a dynamic and user-friendly dashboard that offers a bird's eye view of the company's financial health. Dive deep into the numbers, transforming raw data into insightful visualizations that empower decision-makers to glean actionable insights at a glance. Consider employing interactive elements, intuitive design, and a blend of charts, graphs, and tables to deliver a compelling narrative.
   
-### [Dataset]('https://github.com/AbhinavTalmale/Business-Case-Finance-Tableau/tree/main/Dataset')
+### Dataset:
+[Dataset](https://github.com/AbhinavTalmale/Business-Case-Finance-Tableau/tree/main/Dataset)
 
 
 **Data Description:**
